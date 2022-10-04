@@ -24,3 +24,5 @@ console.log("Hello");
 ```python
 print("Hello MarkDown")
 ```
+
+Sziasztok én sajt 69 vagyok
